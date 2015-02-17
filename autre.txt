@@ -1,0 +1,3 @@
+apres chaque modification il faut soit faire git add "fichier suit de git commit -m "message"
+soit faire git commit -a -m "message
+et enfin, git push (ou git push origin master)
